@@ -1,0 +1,7 @@
+bot_token: token
+
+database:
+  username: -
+  password: -
+  database: -
+  host: localhost
