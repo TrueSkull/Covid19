@@ -1,7 +1,7 @@
-# Covid19 Bot
+# Covid19 Bot:
 This bot has been forked by xMicky24GIT. You can try it through @CovidStatsItaliaBot.
 
-# Ringraziamenti
+# Ringraziamenti:
 ```
 $ Ringrazio xMicky24GIT.
 ```
