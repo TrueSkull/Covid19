@@ -1,8 +1,8 @@
 # Covid19 Bot:
 This bot has been forked by xMicky24GIT. You can try it through @CovidStatsItaliaBot.
 
-# Installazione:
-Per installare correttamente il bot contattare @Occupato su Telegram che fornirà una dettagliata spiegazione.
+# Installation:
+To correctly install the bot, contact @Occupato on Telegram which will provide a detailed explanation.
 
 # Todo:
 ```
